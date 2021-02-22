@@ -1,0 +1,62 @@
+@import "~modern-normalize";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+html,
+body {
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+}
+
+.logo {
+  font-size: 20px;
+  font-family: "Merriweather", serif;
+  color: #333;
+  text-decoration: none;
+  font-weight: 400;
+  span {
+    font-weight: 700;
+  }
+}
+
+.cart-trigger {
+  svg {
+    width: 30px;
+  }
+}
+
+.add-btn {
+	svg {
+		width: 30px;
+	}
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+
+.cart {
+  display: none;
+}
+
+
+.grid-item {
+  .image-wrap {
+    img {
+      width: 100%;
+      max-width: 225px;
+      height:350px;
+      object-fit: fit;
+    }
+  }
+}
