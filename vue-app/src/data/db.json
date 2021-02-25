@@ -1,0 +1,112 @@
+[
+   {
+      "id":"1984",
+      "title":"1984",
+      "author":"George Orwell",
+      "description":"Set in 1984, Winston Smith must overcome a frightening enemy: an omniscient government with an agenda. This is the book that became a standard-bearer for dystopian fiction and introduced Big Brother into our everyday vocabulary. Perhaps the mightiest of George Orwell’s works.",
+      "genre":"Dystopian",
+      "publisher":"Secker & Warburg",
+      "publishDate":"8 Jun. 1949",
+      "price":25.97
+   },
+   {
+      "id":"toKillAMockingbird",
+      "title":"To Kill a Mockingbird",
+      "author":"Harper Lee",
+      "description":"This timeless classic explores human behaviour and the collective conscience of The Deep South in the early 20th century. Humour entwines the delicate strands of prejudice, hatred, hypocrisy, love and innocence to create one of the best novels ever written.",
+      "genre":"Thriller",
+      "publisher":"J. B. Lippincott & Co.",
+      "publishDate":"11 Jul. 1960",
+      "price":28.51
+   },
+   {
+      "id":"theLordOfTheRings",
+      "title":"The Lord of the Rings",
+      "author":"J.R.R. Tolkien",
+      "description":"Middle Earth is a wonderful, expansive fantasy world filled with turmoil, heroes, evil and innocence. Although our protagonist Frodo Baggins’ quest seems impossible to complete, this trilogy is a tale of triumph in the most impossible circumstances.",
+      "genre":"Adventure",
+      "publisher":"Allen & Unwin",
+      "publishDate":"29 Jul. 1954",
+      "price":34.29
+   },
+   {
+      "id":"theGreatGatsby",
+      "title":"The Great Gatsby",
+      "author":"F. Scott Fitzgerald",
+      "description":"The Great Gatsby explores the decadence of the Jazz Age, and one man’s introduction into a world where even those with the most indulgent lives cannot earn love.",
+      "genre":"Tragedy",
+      "publisher":"Charles Scribners Sons",
+      "publishDate":"10 Apr. 1925",
+      "price":23.67
+   },
+   {
+      "id":"theBookThief",
+      "title":"The Book Thief",
+      "author":"Markus Zusak",
+      "description":"The Book Thief follows Liesel as she rescues books from the tyranny of Nazi rule. Meanwhile, her family has hidden a Jewish fighter in their basement and death looks down on the family, narrating our tale. Experience bravery that is rarely found in the world, and friendship that is formed in the most unlikely of situations.",
+      "genre":"Novel",
+      "publisher":"Picador",
+      "publishDate":"22 Sep. 2005",
+      "price":19.5
+   },
+   {
+      "id":"theCatcherInTheRye",
+      "title":"The Catcher in the Rye",
+      "author":"J.D. Salinger",
+      "description":"The Catcher In The Rye explores the challenges and isolation of adolescence. Decipher your own message as you follow sixteen-year-old Holden Caulfield, in this novel that has split audiences for decades.",
+      "genre":"Novel",
+      "publisher":"Little, Brown and Company",
+      "publishDate":"16 Jul. 1951",
+      "price":25.58
+   },
+   {
+      "id":"lordOfTheFlies",
+      "title":"Lord of the Flies",
+      "author":"William Golding",
+      "description":"This classic novel follows the lives of boys marooned on an island as they regress into savages; and their beautiful, enjoyable island existence collapses into a primitive and cruel nightmare.",
+      "genre":"Allegory",
+      "publisher":"Faber and Faber",
+      "publishDate":"17 Sep. 1954",
+      "price":19.48
+   },
+   {
+      "id":"theKiteRunner",
+      "title":"The Kite Runner",
+      "author":"Khaled Hosseini",
+      "description":"A story of true friendship, The Kite Runner follows Amir as he tries to find the only true friend he’s ever had – despite abandoning him due to ethnic and religious differences that were prominent in Kabul, Afghanistan.",
+      "genre":"Drama",
+      "publisher":"Riverhead Books",
+      "publishDate":"29 May. 2003",
+      "price":16.57
+   },
+   {
+      "id":"romeoAndJuliet",
+      "title":"Romeo and Juliet",
+      "author":"William Shakespeare",
+      "description":"Romeo and Juliet is an epic tragedy that explores the euphoria of desire and the tragedy of revenge.",
+      "genre":"Tragedy",
+      "publisher":"Unknown",
+      "publishDate":"In 1597",
+      "price":19.72
+   },
+   {
+      "id":"aliceInWonderland",
+      "title":"Alice in Wonderland",
+      "author":"Lewis Carroll",
+      "description":"Bizarre and curious, Alice In Wonderland explores the potential of imagination and the reality of fiction. If you’re a fan of escaping the real world, this is definitely the book for you.",
+      "genre":"Fantasy",
+      "publisher":"Macmillan",
+      "publishDate":"26 Nov. 1865",
+      "price":13.7
+   },
+   {
+      "id":"frankenstein",
+      "title":"Frankenstein",
+      "author":"Mary Shelley",
+      "description":"A combination of gothic thriller, cautionary tale and romance novel, Frankenstein is a story like no other. Written by Mary Shelley when she was just eighteen, Frankenstein prompts readers to ask themselves some truly shattering questions: what makes us human? What do we owe to one another as living creatures? How far can science push the boundaries of nature?",
+      "genre":"Science Fiction",
+      "publisher":"Lackington, Hughes, Harding, Mavor & Jones",
+      "publishDate":"1 Jan. 1818",
+      "price":15.58
+   }
+]
