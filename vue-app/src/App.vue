@@ -1,6 +1,7 @@
 <template>
   <header class="header">
-    <a href="/" class="logo">book<span>shelf</span> </a>
+    <a href="/" class="logo">book<span>shelf</span></a>
+    <input type="text" placeholder="Search .." />
     <button className="cart-trigger">
       <span>Cart</span>
       <inline-svg src="/assets/icons/cart_icon.svg" />
